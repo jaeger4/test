@@ -1,2 +1,2 @@
-<h1>Test System</h1>
+<h1>Test System 1.1</h1>
 <?php phpinfo(); ?>
